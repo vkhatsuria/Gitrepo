@@ -21,7 +21,7 @@ public class ArrayProcessor {
 				}
 				
 				
-				
+				System.out.println("test for pull request");
 				product = 1;
 				sum = 0;
 			}
