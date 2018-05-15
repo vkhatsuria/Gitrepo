@@ -21,9 +21,7 @@ public class ArrayProcessor {
 				}
 				
 				
-				if (product == 0 || product == sum || sum == 0) {
-					balancePoints.add(i);
-				} 
+				
 				product = 1;
 				sum = 0;
 			}
